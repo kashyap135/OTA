@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.4",
   "firmware_url": "https://raw.githubusercontent.com/kashyap135/OTA/main/testfirmware/firmware/firmware.bin",
   "sha256":"0016dd2f2f423cd60321caa5ee28dc103e062c7e0b75d18171975be19b26ef36"
 }
